@@ -1,4 +1,4 @@
-#FICT Student Management System (Linked Lists)
+# FICT Student Management System (Linked Lists)
 
 A C++ application developed using **Microsoft Visual Studio 2022** that manages, filters, and updates student academic records utilizing custom dynamic Linked Lists.
 
