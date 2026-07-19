@@ -2,7 +2,6 @@
 
 [![C++ Version](https://img.shields.io/badge/Language-C%2B%2B17%20%2F%20C%2B%2B20-blue.svg)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio%202022-purple.svg)](https://visualstudio.microsoft.com/)
-[![Coursework](https://img.shields.io/badge/Academic-UTAR%20UCCD1024-orange.svg)](#)
 
 An optimized, memory-efficient data management program engineered in C++ that leverages custom **Binary Search Trees (BST)** to handle rapid searching, structural cloning, and algorithmic tree traversals. Designed as a standalone system to efficiently catalog and manipulate student records utilizing recursive algorithms and deep-tree traversal patterns.
 
