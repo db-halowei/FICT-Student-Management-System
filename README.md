@@ -1,4 +1,4 @@
-# Student Record Management System (Binary Search Tree)
+# FICT Student Management System (Binary Search Tree)
 
 [![C++ Version](https://img.shields.io/badge/Language-C%2B%2B17%20%2F%20C%2B%2B20-blue.svg)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio%202022-purple.svg)](https://visualstudio.microsoft.com/)
